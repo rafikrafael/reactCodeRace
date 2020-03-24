@@ -1,5 +1,7 @@
 Jogo Criado usando React, Hooks, Styled-Components, Material UI.
 
+Link do demo online https://reactcoderace.herokuapp.com/
+
 Para inicializar o jogo, deve ser instalado os pacotes.
 
 npm install
