@@ -1,0 +1,27 @@
+# dependencies
+/node_modules
+/dist
+/build
+
+
+# IDEs
+\.idea/
+
+#testes
+.nyc_output  
+coverage
+
+#docker
+/volumes
+
+#realm
+/realm
+
+#logs
+/logs
+
+/db
+
+GerenciadorJustoPedidoMobile.exe
+*.exe
+*.sqlite
