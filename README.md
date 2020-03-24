@@ -18,6 +18,7 @@ Mapa de teclas
 Para vira a esquerda usar "A" ou a seta direcional esquerda <-
 Para vira a direita usar "D" ou a seta direcional direita ->
 Para voltar imediatamente para o centro usar a telca "S"
+Para pausar o jogo utilize a tecla "ESC"
 
 Na tela do lado esquerdo é exibido um timer de 8 segundos para carregar o turbo, quando completo é exibida a imagem de uma garrafa de NOS. 
 Para usar o turbo é utilizada a seta direcional para cima do teclado.

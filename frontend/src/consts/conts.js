@@ -1,2 +1,2 @@
-export const tempoVoltas = 10;
+export const tempoVoltas = 20;
 export const numeroVoltas = 3;
